@@ -1,0 +1,23 @@
+{
+  "name": "5k-gamejam-2022",
+  "version": "1.0.0",
+  "description": "## Canvas Sizing This will make the canvas fill whatever window size it gets without stretching or getting cutoff.  If the ratio is different it'll get black bars. If you set its size in itch.io the same as the game res then you shouldn't see the black background of this page there.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelfiber/5k-gamejam-2022.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelfiber/5k-gamejam-2022/issues"
+  },
+  "homepage": "https://github.com/michaelfiber/5k-gamejam-2022#readme",
+  "devDependencies": {
+    "tsc": "^2.0.4"
+  }
+}
